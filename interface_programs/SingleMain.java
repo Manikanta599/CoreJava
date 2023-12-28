@@ -1,0 +1,4 @@
+interface Sup 
+{
+    void smmet()
+}
